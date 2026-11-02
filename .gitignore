@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+_venv/
+tests/tmp*
+tests/ubitar-*
+.pytest_cache/
+*.log
